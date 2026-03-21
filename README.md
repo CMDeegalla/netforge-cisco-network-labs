@@ -98,16 +98,16 @@ tracert
 
 ## 🖼 Network Topologies
 
-### 3-Tier Campus Network
+### 3-Tier Campus Network Topology
 ![3-Tier-Campus-Network-Topology](3tier-campus-network/3tier-topology.png)
 
-### Routing Topology
+### Advanced Routing Topology
 ![Advanced-Routing](advanced-routing-topology/advanced-routing-topology.png)
 
-### ASA Firewall
+### ASA Firewall Network
 ![ASA-Firewall](asa-firewall/ASA-firewall.png)
 
-### Wireless Network
+### Wireless Network Topology
 ![Wireless-Network-Topology](wireless-network/wireless-network-topology.png)
 
 ### Cyber-Resilient-Campus-Network-3Tier-VLAN(VoIP)
