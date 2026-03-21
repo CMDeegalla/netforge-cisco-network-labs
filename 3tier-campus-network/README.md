@@ -65,9 +65,9 @@ ping
 
 ---
 
-## 🖼 Network Topology
+## 🖼 3Tier Campus Network Topology
 
-![3-Tier Network](topology.png)
+![3-Tier Network](3tier-campus-network/3tier-topology.png)
 
 ---
 
@@ -82,7 +82,7 @@ ping
 
 ## 📂 Project File
 
-- `3tier-network.pkt`
+- `3tier-campus-network/3tier-network.pkt`
 
 ---
 
