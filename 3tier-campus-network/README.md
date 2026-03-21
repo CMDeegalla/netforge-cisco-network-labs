@@ -82,7 +82,7 @@ ping
 
 ## 📂 Project File
 
-- `3tier-campus-network/3tier-network.pkt`
+- `3tier-network.pkt`
 
 ---
 
