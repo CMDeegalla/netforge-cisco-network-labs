@@ -16,7 +16,7 @@
 
 ## 📌 Overview
 
-This repository showcases a collection of hands-on **Cisco Packet Tracer labs** focused on real-world networking concepts including **routing, switching, security, and enterprise network design**.
+This repository showcases a collection of hands-on **Cisco Packet Tracer labs** focused on real-world networking concepts, including **routing, switching, security, and enterprise network design**.
 
 The projects simulate **enterprise-level environments** and demonstrate practical implementation of **CCNA-level skills**, including VLAN segmentation, routing protocols, firewall configuration, wireless networking, and VoIP integration.
 
