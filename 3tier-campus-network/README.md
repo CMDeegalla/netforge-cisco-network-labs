@@ -67,7 +67,7 @@ ping
 
 ## 🖼 3Tier Campus Network Topology
 
-![3-Tier-Campus-Network-Topology](3tier-campus-network/3tier-topology.png)
+![3-Tier-Campus-Network-Topology](3tier-topology.png)
 
 ---
 
