@@ -39,10 +39,10 @@ The projects simulate **enterprise-level environments** and demonstrate practica
 | Project | Description | Technologies |
 |--------|------------|-------------|
 | 3-Tier Campus Network | Scalable hierarchical network design | VLAN, RIP, Switching |
-| Routing Topology | Multi-network routing implementation | RIP, Subnetting |
+| Advanced Routing Topology | Multi-network routing implementation | RIP, Subnetting |
 | ASA Firewall | Network security and traffic control | Cisco ASA, ACL |
-| Wireless Network | Internet + WiFi setup | Access Point |
-| Campus Network (VoIP) | VLAN + VoIP enterprise design | VLAN, VoIP |
+| Wireless Network Topology | Internet + WiFi setup | Access Point |
+| Cyber Resilient Campus Network 3Tier VLAN  (VoIP) | VLAN + VoIP enterprise design | VLAN, VoIP |
 
 ---
 
