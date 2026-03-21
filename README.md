@@ -125,16 +125,5 @@ tracert
 
 ---
 
-## 📂 Repository Structure
 
-..
-
-netforge-cisco-networks-labs/
-│
-├── 3tier-campus-network/
-├── advanced-routing-topology/
-├── asa-firewall/
-├── cyber-resilient-campus-network-3tier-VLAN-VoIP/
-├── wireless-network/
-└── README.md
 
